@@ -1,0 +1,5 @@
+0. The Sum of squares of given input of number
+	for each input number 
+	square input number 
+	return the sum of squared input numbers
+

@@ -1,0 +1,5 @@
+2. Calculate a running sum
+	while the input value is greater or equal to zero
+	sum input value
+	if input value is less than zero 
+	return finale result

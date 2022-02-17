@@ -1,0 +1,4 @@
+1. reads in three numbers and writes them all in sorted order
+	for each of these numbers
+	put smallest number first and largest number last
+	return sorted numbers
